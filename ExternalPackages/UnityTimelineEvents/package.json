@@ -1,0 +1,8 @@
+{
+    "name": "com.ixxy.unitytimelineevents",
+    "displayName": "Unity Timeline Events",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "test",
+    "dependencies": { }
+}
